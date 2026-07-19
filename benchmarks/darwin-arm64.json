@@ -1,0 +1,15 @@
+{
+  "recorded_at": "2026-07-19",
+  "platform": "Darwin arm64",
+  "command": "go run ./cmd/benchmark -requests 10000 -workers 64",
+  "requests": 10000,
+  "workers": 64,
+  "successes": 10000,
+  "failures": 0,
+  "invariant_failures": 0,
+  "elapsed_ms": 3500.155,
+  "requests_per_second": 2857.016,
+  "p50_microseconds": 21952,
+  "p95_microseconds": 42239,
+  "p99_microseconds": 44057
+}
